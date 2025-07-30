@@ -19,7 +19,7 @@ const PageNotFound = () => {
           className="mx-auto mb-6 w-60 h-60 animate__animated animate__bounceInUp animate__delay-1s"
         />
         <h1 className="text-4xl font-bold mb-4 animate__animated animate__fadeIn animate__delay-1s">
-          Oops! The page you're looking for doesn't exist.
+          <span>Oops!</span> The page you're looking for doesn't exist.
         </h1>
         <p className="text-lg mb-6 animate__animated animate__fadeIn animate__delay-1s">
         But you can click the button below to go back to the homepage.
